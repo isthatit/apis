@@ -1,0 +1,17 @@
+{
+  "name": "api_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "properties-reader": "^2.2.0",
+    "request": "^2.88.2"
+  }
+}
